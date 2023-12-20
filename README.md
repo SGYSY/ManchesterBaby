@@ -1,6 +1,6 @@
 <p align="center">
   <img width="180">
-  <h1 align="center">Manchester_Baby</h1>
+  <h1 align="center">Manchester Baby</h1>
   <p align="center">Project used to simulate Manchester baby (Available on Windows and Linux)</p>
 </p>
 
@@ -83,7 +83,7 @@ Thanks to the team members for their long hours of investment in this project.Ou
 - Siqi Peng: **Responsible for code packaging and video editing.**
 - Zibang Nie: **Responsible for environment configuration and report writing.**
 
-You can find our project video on bilibili at [The Manchester Baby Demonstration-哔哩哔哩]([https://b23.tv/9DM9iss](https://m.bilibili.com/video/BV1ri4y1a78Y?buvid=YC43FACA30616F904789A811FF30E2FF378B&from_spmid=dt.space-dt.video.0&is_story_h5=false&mid=q3EGa0WFLRuh4hw2rhNKmQ%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=DFDA411B-433E-478B-B727-EF779FA2FA4A&share_source=GENERIC&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1703064113&unique_k=PbjVIle&up_id=693786474)https://m.bilibili.com/video/BV1ri4y1a78Y?buvid=YC43FACA30616F904789A811FF30E2FF378B&from_spmid=dt.space-dt.video.0&is_story_h5=false&mid=q3EGa0WFLRuh4hw2rhNKmQ%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=DFDA411B-433E-478B-B727-EF779FA2FA4A&share_source=GENERIC&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1703064113&unique_k=PbjVIle&up_id=693786474)
+You can find our project video on bilibili at [The Manchester Baby Demonstration-哔哩哔哩](https://m.bilibili.com/video/BV1ri4y1a78Y?buvid=YC43FACA30616F904789A811FF30E2FF378B&from_spmid=dt.space-dt.video.0&is_story_h5=false&mid=q3EGa0WFLRuh4hw2rhNKmQ%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=DFDA411B-433E-478B-B727-EF779FA2FA4A&share_source=GENERIC&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1703064113&unique_k=PbjVIle&up_id=693786474)
 
 ---
 
