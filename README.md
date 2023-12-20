@@ -77,10 +77,10 @@ Please ensure that your system does not have any overly dependencies that might 
 
 ## 😎 Thanks
 Thanks to the team members for their long hours of investment in this project.Our main contributions are listed below:
-- **Siyu Yan**: Responsible for the construction of the basic main functions of part1, project organization, and video recording.
-- **Jieshen Cai**: Responsible for the improvement of additional functions of part1, the construction of GUI, and partial debugging.
-- **Haoyang Lai**: Responsible for the construction of part 2 code and debugging of part code.
-- **Siqi Peng**: Responsible for code packaging and video editing.
+- **Siyu Yan**: Responsible for the construction of the basic main functions of simulator, project organization, and video recording.
+- **Jieshen Cai**: Responsible for the improvement of additional functions of simulator, the construction of GUI, and partial debugging.
+- **Haoyang Lai**: Responsible for the construction of assembler code and debugging of part code.
+- **Siqi Peng**: Responsible for assembler code packaging and video editing.
 - **Zibang Nie**: Responsible for environment configuration and report writing.
 
 You can find our project video on bilibili at [The Manchester Baby Demonstration-哔哩哔哩](https://m.bilibili.com/video/BV1ri4y1a78Y?buvid=YC43FACA30616F904789A811FF30E2FF378B&from_spmid=dt.space-dt.video.0&is_story_h5=false&mid=q3EGa0WFLRuh4hw2rhNKmQ%3D%3D&p=1&plat_id=114&share_from=ugc&share_medium=iphone&share_plat=ios&share_session_id=DFDA411B-433E-478B-B727-EF779FA2FA4A&share_source=GENERIC&share_tag=s_i&spmid=united.player-video-detail.0.0&timestamp=1703064113&unique_k=PbjVIle&up_id=693786474)
