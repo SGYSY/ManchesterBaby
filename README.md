@@ -3,7 +3,9 @@
   <h1 align="center">Manchester_Baby</h1>
   <p align="center">Project used to simulate Manchester baby (Available on Windows and Linux)</p>
 </p>
+
 ---
+
 **This C++ project uses Qt5 for implementing GUI and is configured by QMake.**
 
 ## 👏 Prerequisites
