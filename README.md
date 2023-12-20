@@ -54,7 +54,7 @@ Follow these steps to get this project ready for compiling and running:
 ## ✨ Starting the program
 
 1. Build the project (`Ctrl` + `B`). This will create a `build-ManchesterBaby-Desktop-debug` directory in your project root (The same level as the `ManchesterBaby` folder). Make sure you can find it.
-1. If you haven't done so, rename your assembly language file to `assemble.txt` and put the file into the `build-ManchesterBaby-Desktop-debug` directory.
+1. If you haven't done so, rename your assembly language file to `assemble.txt` and put the file into the `build-ManchesterBaby-Desktop-debug` directory. (There are three sample assembly program files are enclosed in the folder `Assembler_Sample` and ready to be used, do remember to rename if you want to use them).
 2. Compile and run the program (`Ctrl` + `R`). Make sure the Qt Creator is working on the correct project and is currently in `Debug` mode before running. These can be checked right above the `Run` button.
 
 ## 🧩 Operting the Assembler & Simulator
