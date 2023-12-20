@@ -3,12 +3,6 @@
   <h1 align="center">Manchester_Baby</h1>
   <p align="center">Project used to simulate Manchester baby (Available on Windows and Linux)</p>
 </p>
-
-[![English badge](https://img.shields.io/badge/%E8%8B%B1%E6%96%87-English-blue)](./README.md)
-[![简体中文 badge](https://img.shields.io/badge/%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87-Simplified%20Chinese-blue)](./README-ZH_CN.md)\
-[![ChatGPT downloads](https://img.shields.io/github/downloads/lencx/ChatGPT/total.svg?style=flat-square)](https://github.com/lencx/ChatGPT/releases)
-[![twitter](https://img.shields.io/badge/follow-lencx__-blue?style=flat&logo=Twitter)](https://twitter.com/lencx_)
-
 ---
 **This C++ project uses Qt5 for implementing GUI and is configured by QMake.**
 
@@ -87,7 +81,7 @@ Thanks to the team members for their long hours of investment in this project.Ou
 - Siqi Peng: **Responsible for code packaging and video editing.**
 - Zibang Nie: **Responsible for environment configuration and report writing.**
 
-If you encounter any issues, please don't hesitate to contact us.
+You can find our project video on bilibili at [The Manchester Baby Demonstration-哔哩哔哩](https://b23.tv/9DM9iss)
 
 ---
 
